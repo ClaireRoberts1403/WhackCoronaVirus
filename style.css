@@ -15,6 +15,6 @@
 }
 
 .mole {
-  background-image: url('virus.jpg');
+  background-image: url("../images/virus.jpg");
   background-size: cover;
 }
